@@ -15,11 +15,11 @@ Study more knowledge from web design and import my code level.
 - Arizona State University  2018 - 2022
 
 ### Experience
-1.Worked as an intern in an electrical company
+- Worked as an intern in an electrical company
 
-2.Familiar with 3D modeling tools
+- Familiar with 3D modeling tools
 
-3.Proficiency in video editing tools
+- Proficiency in video editing tools
 
 
 ### References
