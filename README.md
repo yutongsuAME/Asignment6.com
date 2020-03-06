@@ -16,7 +16,9 @@ Study more knowledge from web design and import my code level.
 
 ### Experience
 1.Worked as an intern in an electrical company
+
 2.Familiar with 3D modeling tools
+
 3.Proficiency in video editing tools
 
 
