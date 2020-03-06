@@ -1,4 +1,4 @@
-## Yutong Su 
+## Information 
 
 Phone: (530)961-2053
 
@@ -10,18 +10,10 @@ Email: yutongsu@asu.edu
 
 Study more knowledge from web design and import my code level.
 
-```markdown
-Syntax highlighted code block
+### Education
+- LiuZhou No: 9 High School  2015 - 2018  
+- Arizona State University  2018 - 2022
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
